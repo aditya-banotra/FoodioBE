@@ -82,6 +82,15 @@ app.get("/", (req, res) => {
           price: "7.99",
           description: "Roasted rare bird",
         },
+        {
+          id: 9,
+          name: "Toenail Zingy",
+          image: "https://i.imgur.com/IpG3YOT.jpg",
+          category: "appetizer",
+          label: "weird",
+          price: "0.99",
+          description: "Cooked Toenails of various animals",
+        },
       ],
     },
     {
